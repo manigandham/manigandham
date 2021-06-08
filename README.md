@@ -1,2 +1,4 @@
 
-20 years in software, 10+ years in adtech building systems and startups.
+### software/adtech/fintech
+
+More at [ManiGandham.com](https://manigandham.com/)

@@ -1,6 +1,8 @@
 
 ### software/adtech/fintech
 
+about/block at [ManiGandham.com](https://manigandham.com/)
+
 Own/maintain:
 
 - [serilog-sinks-googlecloudlogging](https://github.com/manigandham/serilog-sinks-googlecloudlogging)
@@ -12,4 +14,3 @@ Contribute to adtech projects:
 - [prebid/Prebid.js](https://github.com/prebid/Prebid.js)
 - [prebid/prebid-server](https://github.com/prebid/prebid-server)
 
-More at [ManiGandham.com](https://manigandham.com/)

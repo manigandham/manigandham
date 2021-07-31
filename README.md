@@ -1,7 +1,7 @@
 
 ### software/adtech/fintech
 
-writing/info at [ManiGandham.com](https://manigandham.com/)
+info/blog at [ManiGandham.com](https://manigandham.com/)
 
 own/maintain:
 

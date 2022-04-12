@@ -1,5 +1,4 @@
 
-### software/adtech/fintech
 
 info/blog at [ManiGandham.com](https://manigandham.com/)
 

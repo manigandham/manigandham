@@ -1,6 +1,6 @@
 
 
-bio/blog at [ManiGandham.com](https://manigandham.com/)
+[ManiGandham.com](https://manigandham.com/)
 
 own/maintain/contribute:
 
